@@ -10,4 +10,3 @@ def main():
         print('SSH to ' + driveandip[1] + ' using driver ' + driveandip[0])
         
 main()
-
